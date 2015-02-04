@@ -1,0 +1,36 @@
+
+body {
+    font-size: 12pt;
+}
+
+#cv_body { font-size: 82%; }
+#wrapper {
+    margin: 0;
+    width: 100%;
+    max-width:100%;
+}
+
+#cv_body td.inner {
+    border-left: 0px solid #999;
+}
+
+#cv_body a:link,
+#cv_body a:visited,
+#cv_body a {
+    color: black;
+    font-weight: 700;
+    font-size:105%;
+}
+
+td.left img {
+	margin: 1em 0;
+	width: 180px;
+}
+
+td.left {
+    width: 220px;
+}
+
+p.last_line {
+    display: none;
+}
